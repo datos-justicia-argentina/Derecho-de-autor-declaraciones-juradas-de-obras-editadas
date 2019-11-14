@@ -8,7 +8,7 @@ En este conjunto de datos se identifican las declaraciones juradas de obras edit
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 13/12/2018
 
 -   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción, declaraciones juradas
 
