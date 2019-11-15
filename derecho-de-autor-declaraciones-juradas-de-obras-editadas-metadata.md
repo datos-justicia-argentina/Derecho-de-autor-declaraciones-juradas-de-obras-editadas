@@ -59,7 +59,7 @@ Recursos disponibles
 
 ### Derecho de autor. Declaraciones juradas de obras editadas - AAAA
 
--   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.zip
+-   **Nombre del archivo:** derecho-autor-declaraciones-juradas-obras-editadas-AAAA.zip
 
 -   **Descripción del contenido:** archivo comprimido que contiene las declaraciones juradas de obras editadas en el año AAAA.
 
