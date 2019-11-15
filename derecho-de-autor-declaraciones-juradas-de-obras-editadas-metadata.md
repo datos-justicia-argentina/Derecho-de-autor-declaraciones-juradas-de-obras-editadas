@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Declaraciones juradas de obras editadas - AAAA
+### Derecho de Autor. Declaraciones juradas de obras editadas - AAAA
 
--   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.csv / declaraciones-juradas-obras-editadas-AAAA.xls
+-   **Nombre del archivo:** derecho-autor-declaraciones-juradas-obras-editadas-AAAA.csv / derecho-autor-declaraciones-juradas-obras-editadas-AAAA.xls
 
 -   **Descripción del contenido:** se detallan las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor
 
