@@ -1,7 +1,7 @@
-Derecho de Autor. Declaraciones juradas de obras editadas
+Derecho de autor. Declaraciones juradas de obras editadas
 =========================================================
 
-En este conjunto de datos se identifican las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor.
+En este conjunto de datos se identifican las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de Autor.
 
 <http://datos.jus.gob.ar/dataset/derecho-de-autor-declaraciones-juradas-de-obras-editadas>
 
@@ -25,11 +25,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Derecho de Autor. Declaraciones juradas de obras editadas - AAAA
+### Derecho de autor. Declaraciones juradas de obras editadas - AAAA
 
 -   **Nombre del archivo:** derecho-autor-declaraciones-juradas-obras-editadas-AAAA.csv / derecho-autor-declaraciones-juradas-obras-editadas-AAAA.xls
 
--   **Descripción del contenido:** se detallan las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor
+-   **Descripción del contenido:** se detallan las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de Autor
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
 
@@ -57,7 +57,7 @@ Recursos disponibles
 
 -   **tirada (string):** cantidad de ejemplares que si imprimen de la obra
 
-### Declaraciones juradas de obras editadas - AAAA
+### Derecho de autor. Declaraciones juradas de obras editadas - AAAA
 
 -   **Nombre del archivo:** declaraciones-juradas-obras-editadas-AAAA.zip
 
