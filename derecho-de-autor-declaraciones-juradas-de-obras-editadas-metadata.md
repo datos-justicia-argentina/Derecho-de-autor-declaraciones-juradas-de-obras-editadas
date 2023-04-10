@@ -27,11 +27,11 @@ Recursos disponibles
 
 ### Derecho de autor. Declaraciones juradas de obras editadas - AAAA
 
--   **Nombre del archivo:** derecho-autor-declaraciones-juradas-obras-editadas-AAAA.csv / derecho-autor-declaraciones-juradas-obras-editadas-AAAA.xls
+-   **Nombre del archivo:** derecho-autor-declaraciones-juradas-obras-editadas-AAAA.csv / derecho-autor-declaraciones-juradas-obras-editadas-AAAA.xlsx
 
 -   **Descripción del contenido:** se detallan las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de Autor
 
--   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLS
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8 / XLSX
 
 -   **Rango temporal:** Declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de autor desde la implementación del sistema de Plataforma de Trámites a Distancia hasta la fecha consignada como "Datos actualizados al"
 
