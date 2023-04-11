@@ -37,7 +37,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **ddjj_fecha (date):** fecha de la presentación de la declaración jurada
+-   **ddjj_fecha (date):** fecha de la presentación de la declaración jurada. Este campo se dejó de publicar a partir del año 2021.
 
 -   **ddjj_mes_informado (date):** mes que se está informado en la DDJJ. La fecha de la declaración jurada puede ser posterior a la fecha de las obra editada
 
