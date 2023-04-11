@@ -41,7 +41,7 @@ Recursos disponibles
 
 -   **ddjj_mes_informado (date):** mes que se está informado en la DDJJ. La fecha de la declaración jurada puede ser posterior a la fecha de las obra editada
 
--   **obra_isbn (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
+-   **numero_estandard_internacional (string):** número ISBN asignado a la obra. El ISBN es un número internacional normalizado para identificación de libros, en todos sus formatos y soportes. Estos datos se encuentran disponibles desde mediados de 2017. Para más referencias sobre ISBN consultar <http://www.isbn.org.ar>
 
 -   **obra_sello (string):** sello de la editorial
 
@@ -55,7 +55,7 @@ Recursos disponibles
 
 -   **obra_impresor (string):** firma responsable de hacer las impresiones de la obra
 
--   **tirada (string):** cantidad de ejemplares que si imprimen de la obra
+-   **publicacion_tirada (string):** cantidad de ejemplares que si imprimen de la obra
 
 ### Derecho de autor. Declaraciones juradas de obras editadas - AAAA
 
