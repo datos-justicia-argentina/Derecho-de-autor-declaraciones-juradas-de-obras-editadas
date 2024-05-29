@@ -1,7 +1,7 @@
 Derecho de autor. Declaraciones juradas de obras editadas
 =========================================================
 
-En este conjunto de datos se identifican las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional de Derecho de Autor.
+En este conjunto de datos se identifican las declaraciones juradas de obras editadas presentadas ante la Dirección Nacional del Derecho de Autor.
 
 <http://datos.jus.gob.ar/dataset/derecho-de-autor-declaraciones-juradas-de-obras-editadas>
 
@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** derecho de autor, autores, editores, obras, registro, propiedad intelectual, ISBN, reproducción, declaraciones juradas
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección Nacional del Derecho de Autor
 
 -   **Grupo:** Sistema Registral
 
@@ -76,4 +76,4 @@ Notas
 
 [Disposición 7/2018 - Declaraciones juradas de obras editadas por medio del sistema de Plataforma de Trámites a Distancia (TAD)](http://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/311552/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 706 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2018-706-APN-MJ.pdf), del 23 de agosto de 2018.
